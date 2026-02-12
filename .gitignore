@@ -5,3 +5,11 @@ composer.lock
 .DS_Store
 /.idea
 webpack.mix.js
+=======
+/vendor
+/node_modules
+composer.phar
+composer.lock
+.DS_Store
+/.idea
+webpack.mix.js
